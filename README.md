@@ -1,4 +1,4 @@
-# **🧠 Quiz App*
+# *🧠 Quiz App*
 
 **Quiz App** to klasyczna gra typu quiz, stworzona we Flutterze, umożliwiająca sprawdzenie swojej wiedzy odnośnie geografii.
 
